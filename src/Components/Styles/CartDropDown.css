@@ -1,0 +1,26 @@
+.CartDropDown-UnActive {
+  display: none;
+}
+
+.CartDropDown-Active {
+  background-color: white;
+  box-shadow: 0px 0px 5px gray;
+  display: block;
+  position: absolute;
+  right: 50px;
+  top: 50px;
+}
+
+.CartDropDown-List {
+  padding: 0;
+  margin: auto;
+  width: 400px;
+  text-decoration: none;
+  list-style: none;
+}
+
+.CartDropDown-Element {
+  background-color: wheat;
+  border: 5px solid;
+  border-color: white;
+}
