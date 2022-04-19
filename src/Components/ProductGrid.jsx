@@ -2,18 +2,18 @@ import Product from "./Product";
 import "./Styles/ProductGrid.css";
 const ProductGrid = () => {
   const products = [
-    { name: "APLLE TIVI", price: 300, img: "zapato_1.jpg" },
-    { name: "SANSUN IFON", price: 360, img: "zapato_2.jpg" },
-    { name: "GUAWEY 3", price: 150, img: "zapato_3.jpg" },
-    { name: "SANSUN IFON", price: 360, img: "zapato_2.jpg" },
-    { name: "APLLE TIVI", price: 300, img: "zapato_1.jpg" },
-    { name: "GUAWEY 3", price: 150, img: "zapato_3.jpg" },
-    { name: "SANSUN IFON", price: 360, img: "zapato_2.jpg" },
-    { name: "GUAWEY 3", price: 150, img: "zapato_3.jpg" },
-    { name: "APLLE TIVI", price: 300, img: "zapato_1.jpg" },
-    { name: "APLLE TIVI", price: 300, img: "zapato_1.jpg" },
-    { name: "GUAWEY 3", price: 150, img: "zapato_3.jpg" },
-    { name: "SANSUN IFON", price: 360, img: "zapato_2.jpg" },
+    { name: "Shoe 1", price: 300, img: "zapato_1.jpg" },
+    { name: "Shoe 2", price: 360, img: "zapato_2.jpg" },
+    { name: "Shoe 3", price: 150, img: "zapato_3.jpg" },
+    { name: "Shoe 2", price: 360, img: "zapato_2.jpg" },
+    { name: "Shoe 1", price: 300, img: "zapato_1.jpg" },
+    { name: "Shoe 3", price: 150, img: "zapato_3.jpg" },
+    { name: "Shoe 2", price: 360, img: "zapato_2.jpg" },
+    { name: "Shoe 3", price: 150, img: "zapato_3.jpg" },
+    { name: "Shoe 1", price: 300, img: "zapato_1.jpg" },
+    { name: "Shoe 1", price: 300, img: "zapato_1.jpg" },
+    { name: "Shoe 3", price: 150, img: "zapato_3.jpg" },
+    { name: "Shoe 2", price: 360, img: "zapato_2.jpg" },
   ];
 
   return (
